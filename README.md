@@ -40,8 +40,9 @@ Developed by: RegisterNumber:212223240017
 
 **Output:**
 
-![Screenshot 2024-03-12 144924](https://github.com/Bhuvanesh-Suresh/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742661/cb157719-ac46-45bf-9c88-618a0203ab1e)
-![output new](https://github.com/Bhuvanesh-Suresh/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742661/120f1539-2ab1-41ed-af8c-34652ae97c77)
+![Screenshot 2024-03-12 151457](https://github.com/Bhuvanesh-Suresh/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742661/1a42e460-893f-4ef0-aca7-b110a8cf9b88)
+![output new](https://github.com/Bhuvanesh-Suresh/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742661/de72918f-c266-4030-b63c-2bc7ff263fb2)
+
 
 
 
